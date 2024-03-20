@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL](https://github.com/Antonvasilache/product-preview-card)
-[Live Site URL](https://product-preview-card-av.netlify.app/)
+[Solution URL](https://github.com/Antonvasilache/four-cards-feature-section)
+[Live Site URL](https://four-cards-feature-av.netlify.app/)
 
 ## My process
 
