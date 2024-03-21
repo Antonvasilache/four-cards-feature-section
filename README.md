@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-[Solution URL](https://github.com/Antonvasilache/four-cards-feature-section)
+[Solution URL](https://github.com/Antonvasilache/four-cards-feature-section)  
 [Live Site URL](https://four-cards-feature-av.netlify.app/)
 
 ## My process

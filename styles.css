@@ -64,7 +64,6 @@ body {
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
   gap: 2rem;
-  background-color: white;
 }
 
 .content-card {
